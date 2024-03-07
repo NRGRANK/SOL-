@@ -1,0 +1,6 @@
+/SOL_App
+    /public
+        index.html
+        style.css
+        app.js
+    server.js
