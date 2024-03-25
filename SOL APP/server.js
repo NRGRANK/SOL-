@@ -9,6 +9,7 @@ app.get('/api/terms', (req, res) => {
     res.json([
         { term: "Lit", definition: "Extremely fun or exciting." },
         { term: "Salty", definition: "To be upset or bitter about something." },
+        
     ]);
 });
 
